@@ -1,2 +1,0 @@
-# DjangoReact
-demo
